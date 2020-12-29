@@ -93,13 +93,13 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: jekyll-theme-cayman
+theme: next
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/isuwang-2019/isuwang-2019.github.io
+  repo: https://github.com/jiezaizone/jiezaizone.github.io
   branch: master
 
 # 宠物
