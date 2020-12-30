@@ -162,10 +162,10 @@ Vue3里面使用Setup()函数可以在同一个入口里面对属性及其操作
 
 以上呢就是关于Vue3分享的一些答疑点。同事们的问题促进我进一步去思考，让我对Vue3的理解更加深入了。同时深刻感觉，学习厉害的人的思路，可以开拓视野范围。
 
-[01]:/image/onmount.png "onMounted"
-[02]:/image/diff.png "diff"
-[03]:/image/hoistStatic.png "hoistStatic"
-[04]:/image/cache1.png "cacheHandlers未开启"
-[05]:/image/cache2.png "cacheHandlers开启"
-[06]:/image/ssr.png "SSR服务端渲染"
+[01]:../../../images/onmount.png "onMounted"
+[02]:../../../images/diff.png "diff"
+[03]:../../../images/hoistStatic.png "hoistStatic"
+[04]:../../../images/cache1.png "cacheHandlers未开启"
+[05]:../../../images/cache2.png "cacheHandlers开启"
+[06]:../../../images/ssr.png "SSR服务端渲染"
 [07]:https://github.com/wuliya1994/Vue3-demo "Vue3练习demo"
